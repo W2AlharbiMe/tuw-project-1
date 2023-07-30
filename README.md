@@ -59,7 +59,7 @@ Tie.
 ### Extra Features:
 - [x] Play vs Computer
 - [x] Play vs Another Player (Same Laptop)
-- [x] simple point system.
+- [x] simple Score system.
 
 
 
