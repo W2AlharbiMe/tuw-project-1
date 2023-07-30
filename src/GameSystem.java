@@ -5,6 +5,8 @@ public class GameSystem {
     public static void start() {
         Scanner s = new Scanner(System.in);
 
+        Layout.printWelcomeMessage();
+
         while (true) {
             // show menu and return length
             int menu_length = Menu.initializeGameMenu(s);

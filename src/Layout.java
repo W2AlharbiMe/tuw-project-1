@@ -3,6 +3,11 @@ import java.util.Arrays;
 
 public class Layout {
 
+    public static void printWelcomeMessage() {
+        System.out.println("<<------------->> Welcome to tic-tac-toe <<-------------->>");
+    }
+    
+
     public static void render(int[][] game_board, int X, int O) {
         String[][] game_board_string = {
                 // 0,1          1,2        2,3
